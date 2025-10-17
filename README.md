@@ -24,13 +24,13 @@ Alzheimer’s disease is a progressive neurological disorder that requires early
 ## Results and Evaluation
 
 ### Confusion Matrix
-![Confusion Matrix](images/confusion_matrix.jpeg)
+![Confusion Matrix](Images/)
 
 ### ROC Curve
-![ROC Curve](images/ROC_curve.jpeg)
+![ROC Curve](Images/ROC_curve.jpeg)
 
 ### Accuracy and Other Metrics
-![Accuracy and Metrics](images/Accuracy_and_other_metrics.jpeg)
+![Accuracy and Metrics](Images/Accuracy_and_other_metrics.jpeg)
 
 ## Future Improvements
 
